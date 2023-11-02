@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "temp",
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "esModuleInterop": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "types": [],
+  },
+  "include": [
+    "cache.ts",
+    "parse.ts"
+  ]
+}
